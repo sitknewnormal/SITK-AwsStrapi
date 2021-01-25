@@ -1,6 +1,6 @@
-# Sharing Is The Key Strapi Application
+# Sharing Is The Key Strapi Application - AWS
 
-This is an Strapi application that serves a Personal Portfolio Gatsby frontend.
+This is an Strapi application on AWS.
 
 There is plugin that imports content this Strapi application.
 
